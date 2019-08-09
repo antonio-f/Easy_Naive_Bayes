@@ -1,2 +1,2 @@
 # Easy Naive Bayes model
-Easy Naive Bayes method implementationfor the Spam Filtering problem (using Python).
+Easy Naive Bayes method implementationvfor the Spam Filtering problem (using Python).
